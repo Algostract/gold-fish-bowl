@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.3.2
+
+### 🏡 Chore
+
+- Configure Renovate ([ab95ee3](https://github.com/Algostract/gold-fish-bowl/commit/ab95ee3))
+- Apply code fixes [skip ci] ([6002979](https://github.com/Algostract/gold-fish-bowl/commit/6002979))
+
+### ❤️ Contributors
+
+- Shba007 ([@shba007](https://github.com/shba007))
+- Shirsendu Bairagi ([@shba007](https://github.com/shba007))
+
 ## v0.3.1
 
 [compare changes](https://github.com/Algostract/gold-fish-bowl/compare/v0.3.0...v0.3.1)
